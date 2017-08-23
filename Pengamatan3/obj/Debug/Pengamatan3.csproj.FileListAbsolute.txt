@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan3\Pengamatan3\bin\Debug\Pengamatan3.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan3\Pengamatan3\bin\Debug\Pengamatan3.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan3\Pengamatan3\bin\Debug\Pengamatan3.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan3\Pengamatan3\obj\Debug\Pengamatan3.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan3\Pengamatan3\obj\Debug\Pengamatan3.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan3\Pengamatan3\obj\Debug\Pengamatan3.pdb
